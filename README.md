@@ -1,2 +1,2 @@
 # IBMCognos
-Dashboard using IBM Cognos for Data Analyst Capstone Project
+Dashboards generated using 'IBM Cognos Analytics' for Data Analyst Capstone Project
